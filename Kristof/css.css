@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin: auto;
+    padding: 10px;
+    width: 210px;
+    font-size: 110%;
+}
